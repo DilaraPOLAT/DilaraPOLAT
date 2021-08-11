@@ -5,7 +5,8 @@
 
 
  **Connect with me:**
-  <code><img height="75" src="https://user-images.githubusercontent.com/59871974/129077007-54bded69-7b17-4f54-8c0c-6a0b8217b9e8.png"></code>
+  <code><img height="75" src="![image](https://user-images.githubusercontent.com/59871974/129077265-6d7f1c80-a4b3-4a9c-9b31-1e4f82493739.png)
+"https://www.linkedin.com/in/dilara-sevim-polat-48a13919a/"></code>
 
 
 
