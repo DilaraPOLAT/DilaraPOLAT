@@ -3,7 +3,7 @@
  * 🌱 I’m currently learning Java, Spring Boot, C#, ASP.NET Core SQL, PostgreSQL
  * 👨‍💻 All of my projects are available at https://github.com/DilaraPOLAT?tab=repositories
 
-
+<br />
 **Connect with me:**
  
  [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
@@ -15,10 +15,8 @@
  [gmail]: mailto:polatdilarasevim@gmail.com
  [HackerRank]:https://www.hackerrank.com/Polatdilarasevim?hr_r=1
  
+ <br />
  
- 
- 
-###
  
 **Languages and Tools:**
 
