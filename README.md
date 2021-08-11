@@ -5,7 +5,7 @@
 
 
  **Connect with me:**
- [![Linkedin Badge](https://img.shields.io/badge/utkuglsvn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dilara-sevim-polat-48a13919a/)
+ [![Linkedin Badge](https://img.shields.io/badge/dilara-sevim-polat-48a13919a/-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dilara-sevim-polat-48a13919a/)
 
 
 
