@@ -10,7 +10,7 @@
 
 
  **Languages and Tools:**
- [GitHub]( https://www.google.com/imgres?imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F59276%3Fs%3D200%26v%3D4&imgrefurl=https%3A%2F%2Fgithub.com%2Fcplusplus&tbnid=SpYQqESccClviM&vet=12ahUKEwjI4u7guKnyAhUKWxoKHf-EC34QMygBegUIARChAQ..i&docid=rrvaI71fzY4FSM&w=200&h=200&q=cplusplus&hl=tr&ved=2ahUKEwjI4u7guKnyAhUKWxoKHf-EC34QMygBegUIARChAQ)
+ [GitHub Logo]( https://www.google.com/imgres?imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F59276%3Fs%3D200%26v%3D4&imgrefurl=https%3A%2F%2Fgithub.com%2Fcplusplus&tbnid=SpYQqESccClviM&vet=12ahUKEwjI4u7guKnyAhUKWxoKHf-EC34QMygBegUIARChAQ..i&docid=rrvaI71fzY4FSM&w=200&h=200&q=cplusplus&hl=tr&ved=2ahUKEwjI4u7guKnyAhUKWxoKHf-EC34QMygBegUIARChAQ)
 
 qtcreator  csharp  c python java spring sqlite postgresql
 <!--
