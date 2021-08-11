@@ -16,10 +16,6 @@
  [HackerRank]:https://www.hackerrank.com/Polatdilarasevim?hr_r=1
 
 
-
-
-
-
  **Languages and Tools:**
  
  
