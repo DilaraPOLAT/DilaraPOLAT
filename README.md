@@ -7,7 +7,7 @@
  **Connect with me:**
  
  [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
- [<img align="left" alt="HackerRank| HackerRank" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/HackerRank.svg" />][HackerRank]
+ [<img align="left" alt="HackerRank| HackerRank" width="24px" src="https://user-images.githubusercontent.com/59871974/129078907-b308d06f-78d6-4317-a62f-b9e8d8997fe3.png" />][HackerRank]
  [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
  
 
