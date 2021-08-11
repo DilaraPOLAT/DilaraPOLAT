@@ -15,8 +15,7 @@
  [gmail]: mailto:polatdilarasevim@gmail.com
  [HackerRank]:https://www.hackerrank.com/Polatdilarasevim?hr_r=1
 
-**
- **Languages and Tools:**
+**Languages and Tools:**
  
  
  <code><img height="75" src="https://user-images.githubusercontent.com/59871974/129071984-1b28b74f-9356-4289-bd03-3955b8d0b542.png"></code>
