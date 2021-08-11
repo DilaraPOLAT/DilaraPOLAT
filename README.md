@@ -10,8 +10,10 @@
 
 
  **Languages and Tools:**
- [GitHub Logo]( ![image](https://user-images.githubusercontent.com/59871974/129071984-1b28b74f-9356-4289-bd03-3955b8d0b542.png)
-)
+ http://github.com - automatic!
+[GitHub](https://user-images.githubusercontent.com/59871974/129071984-1b28b74f-9356-4289-bd03-3955b8d0b542.png)
+
+
 
 qtcreator  csharp  c python java spring sqlite postgresql
 <!--
