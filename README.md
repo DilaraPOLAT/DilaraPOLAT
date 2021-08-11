@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋 I'm Dilara Sevim Polat
+                  ### Computer Engineering
 
 <!--
 **DilaraPOLAT/DilaraPOLAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
