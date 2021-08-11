@@ -4,7 +4,7 @@
  * 👨‍💻 All of my projects are available at https://github.com/DilaraPOLAT?tab=repositories
 
 
- **Connect with me:**
+**Connect with me:**
  
  [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
  [<img align="left" alt="HackerRank| HackerRank" width="24px" src="https://user-images.githubusercontent.com/59871974/129078907-b308d06f-78d6-4317-a62f-b9e8d8997fe3.png" />][HackerRank]
@@ -14,10 +14,10 @@
  [linkedin]: https://www.linkedin.com/in/dilara-sevim-polat-48a13919a/
  [gmail]: mailto:polatdilarasevim@gmail.com
  [HackerRank]:https://www.hackerrank.com/Polatdilarasevim?hr_r=1
-
+ 
+ 
 **Languages and Tools:**
- 
- 
+
  <code><img height="75" src="https://user-images.githubusercontent.com/59871974/129071984-1b28b74f-9356-4289-bd03-3955b8d0b542.png"></code>
  <code><img height="75" src="https://user-images.githubusercontent.com/59871974/129076432-c5da2ccd-89d9-4d91-bf0c-743949117f1e.png"></code>
  <code><img height="75" src="https://user-images.githubusercontent.com/59871974/129072661-125f9a6d-f1b2-4e39-bf2b-536d712f15e6.png"></code>
