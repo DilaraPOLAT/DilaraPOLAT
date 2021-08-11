@@ -5,8 +5,8 @@
 
 
  **Connect with me:**
- 
- [![Linkedin Badge](https://user-images.githubusercontent.com/59871974/129077007-54bded69-7b17-4f54-8c0c-6a0b8217b9e8.png)(https://www.linkedin.com/in/dilara-sevim-polat-48a13919a/)
+  <code><img height="75" src="https://user-images.githubusercontent.com/59871974/129077007-54bded69-7b17-4f54-8c0c-6a0b8217b9e8.png"https://www.linkedin.com/in/dilara-sevim-polat-48a13919a/"></code>
+
 
 
 
