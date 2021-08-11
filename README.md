@@ -5,7 +5,8 @@
 
 
  **Connect with me:**
-  (https://www.linkedin.com/in/dilara-sevim-polat-48a13919a/.png)
+ tr blog-> linkedin.com/in/dilara-sevim-polat-48a13919a/
+
 
 
 
