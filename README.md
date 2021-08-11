@@ -1,10 +1,13 @@
 ### Hi 👋 I'm Dilara Sevim Polat
 ###                           Computer Engineering
-** 🌱 I’m currently learning Java, Spring Boot, C#, ASP.NET Core SQL, PostgreSQL
-**👨‍💻 All of my projects are available at https://github.com/DilaraPOLAT?tab=repositories
+ * 🌱 I’m currently learning Java, Spring Boot, C#, ASP.NET Core SQL, PostgreSQL
+ * 👨‍💻 All of my projects are available at https://github.com/DilaraPOLAT?tab=repositories
+
 
 ***Connect with me:
-https://www.linkedin.com/in/dilara-sevim-polat-48a13919a/
+(https://www.linkedin.com/in/dilara-sevim-polat-48a13919a/.png)
+
+
 
 ***Languages and Tools:
 qtcreator  csharp cplusplus c python java spring sqlite postgresql
