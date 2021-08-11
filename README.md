@@ -5,7 +5,6 @@
 
 
  **Connect with me:**
-  ![Test Image 0]( ![image](https://user-images.githubusercontent.com/59871974/129074238-062b5f09-ce23-471d-9d34-f6406f792507.png)
   (https://www.linkedin.com/in/dilara-sevim-polat-48a13919a/.png)
 
 
