@@ -6,12 +6,10 @@
 
  **Connect with me:**
  
+ [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
  
  
- <img align="right" alt="GIF" src="https://www.linkedin.com/in/dilara-sevim-polat-48a13919a/blob/master/code.gif?raw=true" width="500" height="320" />
- 
- 
-
+[linkedin]: https://www.linkedin.com/in/dilara-sevim-polat-48a13919a/
 
 
 
