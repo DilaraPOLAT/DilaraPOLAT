@@ -31,6 +31,7 @@
  <code><img height="75" src="https://user-images.githubusercontent.com/59871974/129076579-7a474c19-bad7-45e9-85fd-7392ae03da1a.png"></code>
  <code><img height="75" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2bcT1UO7Ky_fHKCBl9TnL0LhWJjc1okF5VA&usqp=CAU"></code>
  <code><img height="75" src="https://user-images.githubusercontent.com/59871974/129076834-021bb8d1-243b-4c24-8861-e1068c88d509.png"></code>
+ <code><img height="75" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.mshowto.org%2Fimages%2Farticles%2F2018%2F12%2Fsql-server-466x375.png&imgrefurl=https%3A%2F%2Fwww.mshowto.org%2Fsql-server-recovery-modelleri.html&tbnid=oTTAUaBgBlPGVM&vet=12ahUKEwiBsa71t5P0AhVRyaQKHdWKAMUQMygAegUIARClAQ..i&docid=8EefFtYV90VPAM&w=466&h=375&q=msssql%20png&ved=2ahUKEwiBsa71t5P0AhVRyaQKHdWKAMUQMygAegUIARClAQ"></code>
 
 
 
