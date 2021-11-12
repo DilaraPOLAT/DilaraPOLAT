@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Dilara Sevim Polat
 ###                           Computer Engineering
- * 🌱 I’m currently learning Java, Spring Boot, C#, ASP.NET Core SQL, PostgreSQL
+ * 🌱 I’m currently learning python, OpenCV, MSSQL
  * 👨‍💻 All of my projects are available at https://github.com/DilaraPOLAT?tab=repositories
 
 <br />
