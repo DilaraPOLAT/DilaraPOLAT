@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Dilara Sevim Polat
 ###                           Computer Engineering
- * 🌱 I’m currently learning python, OpenCV, MSSQL
+ * 🌱 I’m currently learning  OpenCV, Data Science, Html JavaScript Css
  * 👨‍💻 All of my projects are available at https://github.com/DilaraPOLAT?tab=repositories
 
 <br />
